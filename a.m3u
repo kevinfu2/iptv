@@ -3,31 +3,15 @@
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1 (PC) (1080p)
 http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-name="Leominster TV Educational" tvg-country="US" tvg-language="English" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Local",Leominster TV Educational (1080p)
-http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaoriTelevision.au" tvg-name="Maori Television" tvg-country="NZ;AU" tvg-language="English" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="",Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-name="Radio y Televisión Martí" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/B6C0FyM.png" group-title="Local",Radio y Televisión Martí (480p)
-https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.46.png" group-title="",Al Jazeera English (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.46.png" group-title="",Al Jazeera English (1080p)
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
 #EXTINF:-1 tvg-id="MotorCyclistBumblebee.us" tvg-name="MotorCyclist (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2Fmotorcyclist.png?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=e4295d069bb98c7a8bf3c2d864d1d901" group-title="",MotorCyclist (Bumblebee)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureLiveAnimalLiveBumblebee.us" tvg-name="Nature Live - Animal Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fbumblebeetv%2Flogo%2F31c64b9f-2f54-489a-8a11-8826de88df54?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=55289e48f262d9667c596972c42d30bc" group-title="",Nature Live - Animal Live (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-id="LeominsterTVPublic.us" tvg-name="Leominster TV Public" tvg-country="US" tvg-language="English" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Local",Leominster TV Public (1080p)
-http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FaithLifeTV.us" tvg-name="Faith & Life TV" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" group-title="Religious",Faith & Life TV (720p)
-https://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-name="Canada Star TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV (1080p)
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="NatureLiveForestLiveBumblebee.us" tvg-name="Nature Live - Forest Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fbumblebeetv%2Flogo%2F7c46b3f7-e63e-456e-94bb-168736046402?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=8a0c72ed7ff1a4f305ec4c23de70e9ad" group-title="",Nature Live - Forest Live (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureLiveSunsetLiveBumblebee.us" tvg-name="Nature Live - Sunset Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fbumblebeetv%2Flogo%2F0dff4cd6-4d86-4c51-b376-356443d38ab9?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=0face87578d7d2d5301a284b8d5f3261" group-title="",Nature Live - Sunset Live (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureLiveBeachesLiveBumblebee.us" tvg-name="Nature Live - Beaches Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fbumblebeetv%2Flogo%2F188c94a4-40b0-4f4a-b9ff-f6613a96d8e4?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=2c28a0e9c0254dac50f6518c7b3402b7" group-title="",Nature Live - Beaches Live (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 tvg-id="Futurism.us" tvg-name="Futurism" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Futurism (720p)
+ #EXTINF:-1 tvg-id="Futurism.us" tvg-name="Futurism" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Futurism (720p)
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 #EXTINF:-1 tvg-id="PopularScience.in" tvg-name="Popular Science" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",Popular Science
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
@@ -47,26 +31,6 @@ https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="CMCUSA.us" tvg-name="CMC-USA" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png" group-title="Music",CMC-USA (1080p)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 tvg-id="DREAMCORPLLC.us" tvg-name="DREAM CORP LLC (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",DREAM CORP LLC (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-#EXTINF:-1 tvg-id="LSOTL.us" tvg-name="Last Stream On The Left (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Last Stream On The Left (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-#EXTINF:-1 tvg-id="RickAndMorty.us" tvg-name="Rick and Morty (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Rick and Morty (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="Informercials.us" tvg-name="Infomercials (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Infomercials (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-#EXTINF:-1 tvg-id="Channel5.us" tvg-name="Channel 5 (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Channel 5 (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-#EXTINF:-1 tvg-id="OffTheAirSmalls.us" tvg-name="Off The Air / Smalls (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Off The Air / Smalls (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-id="NatureLiveRiversLiveBumblebee.us" tvg-name="Nature Live - Rivers Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fbumblebeetv%2Flogo%2Fe3d0071c-449d-4b41-906d-43b01580cc47?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=c408e99f0c6dda8341a13d81cb44f342" group-title="",Nature Live - Rivers Live (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="BlackJesus.us" tvg-name="Black Jesus (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Black Jesus (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:-1 tvg-id="Metalocalypse.us" tvg-name="Metalocalypse (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Metalocalypse (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-#EXTINF:-1 tvg-id="AquaTeenHungerForce.us" tvg-name="Aqua Teen Hunger Force (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Aqua Teen Hunger Force (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 tvg-id="MoviesKingdom.us" tvg-name="Movies Kingdom" tvg-country="US;UK" tvg-language="English" tvg-logo="" group-title="Movies",Movies Kingdom (720p)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-id="DryBarComedyTV.us" tvg-name="Dry Bar Comedy TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="Comedy",Dry Bar Comedy TV (720p)
