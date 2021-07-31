@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="fh" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="English" group-title="新闻",凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-id="fh" tvg-name="凤凰中文" tvg-country="CN" tvg-language="English" group-title="新闻",凤凰中文
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="cctv5p" tvg-name="cctv5+" tvg-country="CN" tvg-language="English" group-title="新闻",cctv5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="cctv5p" tvg-name="cctv5" tvg-country="CN" tvg-language="English" group-title="新闻",cctv5
+http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2 (HD)
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1 (PC) (1080p)
