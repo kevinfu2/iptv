@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="fh" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="English" group-title="新闻",凤凰资讯
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-id="cctv5p" tvg-name="cctv5+" tvg-country="CN" tvg-language="English" group-title="新闻",cctv5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2 (HD)
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1 (PC) (1080p)
@@ -55,14 +59,10 @@ https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 #EXTINF:-1 tvg-id="NBC15MadisonWIWMTVNBC.us" tvg-name="NBC 15 Madison WI (WMTVNBC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qOO32m6.png" group-title="Local",NBC 15 Madison WI (WMTVNBC) (720p)
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" group-title="",Red Bull TV (1080p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV - Puppies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV - Puppies
 https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
 #EXTINF:-1 tvg-id="EpikMBumblebee.us" tvg-name="Epik M (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2FEpic-Makes-Misses-and-Mayhem.png?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=4a99e1dcf831ed39d1a860394f57205e" group-title="",Epik M (Bumblebee)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVNordic.us" tvg-name="MTV Nordic" tvg-country="NORD" tvg-language="English;Norwegian Bokmål" tvg-logo="https://i.imgur.com/QpdHuGo.png" group-title="Entertainment",MTV Nordic (720p)
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="FOX23TulsaOKKOKITV.us" tvg-name="FOX 23 Tulsa OK (KOKI-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pRKEMb1.jpg" group-title="Local",KOKI-TV FOX 23 Tulsa OK (720p)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
 #EXTINF:-1 tvg-id="FairfaxPublicAccess.us" tvg-name="Fairfax Public Access" tvg-country="US" tvg-language="English" tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" group-title="Legislative",Fairfax Public Access
@@ -87,8 +87,6 @@ http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest/playlist.m3u8
 #EXTINF:-1 tvg-id="ESRUS.us" tvg-name="ESR (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/N9DdtrE.png" group-title="",ESR (US) (1080p)
 https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="LifevisionTV.us" tvg-name="LifevisionTV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Religious",LifevisionTV (720p)
-https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Docurama.us" tvg-name="Docurama" tvg-country="NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="Documentary",Docurama (1080p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Outdoor",AKC TV (1080p)
@@ -171,8 +169,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PopCornFlixActionBumblebee.us" tvg-name="PopCornFlix Action (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fpopcornflixlive%2Flogo%2F2c2888fd-01b8-447d-8f03-8811a343422f?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=d05e5cc69e71d25d2e922efcf87df487" group-title="",PopCornFlix Action (Bumblebee)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA1English.uk" tvg-name="MTA 1 English" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 English (1080p)
-https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p)
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="NewsmaxTV" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="",NewsmaxTV (1080p)
